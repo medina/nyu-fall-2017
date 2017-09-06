@@ -1,10 +1,6 @@
 
 [![thegrugqsays](images/teach-someone-to-phish.png)](https://twitter.com/thegrugq/status/563964286783877121)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Give a man an 0day and he&#39;ll have access for a day, teach a man to phish and he&#39;ll have access for life.</p>&mdash; the grugq (@thegrugq) <a href="https://twitter.com/thegrugq/status/563964286783877121">February 7, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 # Let's Make a Phishing Site!
 
    * Google Chrome
